@@ -24,6 +24,7 @@ public class CommandLineArgs {
       //each args is feed into argument
       //for (String argument : args){
       //Basic or traditional for
+      //
       /*  for (int i =0; i < args.length; i++){
           String argument = args[i];
         System.out.printf("%d: %s%n", i, argument);
